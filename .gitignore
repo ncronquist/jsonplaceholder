@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# For the purposes of this example I'm going to ignore yarn and npm lockfiles
+yarn.lock
+package-lock.json
